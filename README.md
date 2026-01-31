@@ -6,7 +6,7 @@ Currently focusing on **Problem Solving using Java** to strengthen core programm
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 - Solving coding problems using **Java** (Data Structures & Algorithms)
 - Building strong foundations in **Automation Testing**
 - Applying testing concepts on real-world scenarios
@@ -14,9 +14,9 @@ Currently focusing on **Problem Solving using Java** to strengthen core programm
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -26,7 +26,7 @@ Currently focusing on **Problem Solving using Java** to strengthen core programm
 
 ---
 
-## 🧪 Software Testing
+##  Software Testing
 
 ### Manual Testing
 - Test Case Design & Execution  
@@ -44,7 +44,7 @@ Currently focusing on **Problem Solving using Java** to strengthen core programm
 
 ---
 
-## 🧰 Frameworks & Tools
+##  Frameworks & Tools
 
 ### Project & Task Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -60,7 +60,7 @@ Currently focusing on **Problem Solving using Java** to strengthen core programm
 
 ---
 
-## 📊 Productivity & Documentation
+## Documentation
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
@@ -68,7 +68,7 @@ Currently focusing on **Problem Solving using Java** to strengthen core programm
 
 ---
 
-## 🔗 Let's Connect
+##  Let's Connect
 [LinkedIn](https://www.linkedin.com/in/dareen-hazem-6ab386300)
 
 ---
